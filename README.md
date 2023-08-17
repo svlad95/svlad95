@@ -24,6 +24,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svlad95&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](statss#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svlad95&date_format=j%20M%5B%20Y%5D&card_width=500)](stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlad95&theme=dark&hide_border=true&card_width=500)](statss#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svlad95&card_width=500)](stats#gh-light-mode-only)
 ---
